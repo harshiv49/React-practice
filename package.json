@@ -1,5 +1,28 @@
 {
+  "name": "namastereact",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshiv49/React-practice.git"
+  },
+  "author": "Harshiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshiv49/React-practice/issues"
+  },
+  "homepage": "https://github.com/harshiv49/React-practice#readme",
+  "description": "Hi this is React Practice App",
   "dependencies": {
-    "parcel": "^2.10.0"
+    "parcel": "^2.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }

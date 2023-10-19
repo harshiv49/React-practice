@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.nav-links-container{
+    width: 50%;
+}
+.nav-links-list{
+    margin-top:40px ;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-links-list li{
+   
+    list-style: none;
+}
